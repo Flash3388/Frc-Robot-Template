@@ -10,3 +10,4 @@ build/
 imgui.ini
 simgui*
 networktables.json
+ctre_sim/
